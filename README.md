@@ -1,2 +1,4 @@
 * Contact: H. N. Jo (hn_jo@korea.ac.kr) <br>
-* Presentation youtube link: https://youtu.be/rCve8_Z7BZU
+* Proposal presentation youtube link: https://youtu.be/rCve8_Z7BZU
+* Project 1 presentation youtube link: 
+* Project 2 presentation youtube link:
